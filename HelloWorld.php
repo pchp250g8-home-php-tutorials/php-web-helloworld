@@ -1,5 +1,4 @@
 <?php
-
     $date = new DateTime("now", new DateTimeZone("Europe/Minsk"));   
     echo("Hello, World!!!<br>");
     echo("PHP Test Web Page!!!<br>");
