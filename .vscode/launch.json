@@ -12,7 +12,6 @@
             "runtimeArgs": [
                 "-S",
                 "localhost:8000",
-                "${file}",
                 "-t",
                 "."
             ],
@@ -29,7 +28,6 @@
             "runtimeArgs": [
                 "-S",
                 "localhost:8000",
-                "${file}",
                 "-t",
                 "."
             ],
