@@ -1,4 +1,4 @@
-HelloWorld. PHP Tutorials. Simple Input/Output. Web Application. 
+HelloWorld. PHP Tutorials. Simple Input/Output. Web Application.
 The application (website) consists of an HTML page and a PHP script. 
 The HTML page consists of a first-level header (the top-level header of six) with the value "Hello, World!!!" and a hyperlink to a PHP script file, "Hello.php." 
 The PHP script file creates a web page for the browser with text consisting of the following phrases:
